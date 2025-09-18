@@ -1,0 +1,18 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "Book Store Basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.5.2"
+  }
+}
